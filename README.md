@@ -1,2 +1,2 @@
-# NLP-learning
-store the process code and some ideas
+# AI_research
+for bachelor thesis
